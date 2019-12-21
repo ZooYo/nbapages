@@ -1,0 +1,76 @@
+.post {
+    display: inline-block;
+    padding: 15px;
+    margin: 15px;
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-color: white;
+    border-radius: 3px;
+}
+
+.expandedPost {
+    display: inline-block;
+    padding: 15px;
+    margin: 15px;
+    width: 600px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    background-color: white;
+}
+
+.post:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+.postImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    border-radius: 8px;
+}
+
+.date {
+    padding-top: 20px;
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.blackButton {
+    background-color: #555555;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.blueButton {
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.postContent {
+    margin-top: 20px;
+    font-family: Microsoft JhengHei;
+    line-height: 30px;
+}
+
+hr {
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0,0,0,0.5);
+}
