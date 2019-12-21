@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nbapages/static/css/main.67228cbd.chunk.css",
+    "main.css": "/nbapages/static/css/main.4b1b2b48.chunk.css",
     "main.js": "/nbapages/static/js/main.ee8efaa8.chunk.js",
     "main.js.map": "/nbapages/static/js/main.ee8efaa8.chunk.js.map",
     "runtime-main.js": "/nbapages/static/js/runtime-main.0dd42c49.js",
@@ -9,17 +9,17 @@
     "static/js/2.0cdb549f.chunk.js": "/nbapages/static/js/2.0cdb549f.chunk.js",
     "static/js/2.0cdb549f.chunk.js.map": "/nbapages/static/js/2.0cdb549f.chunk.js.map",
     "index.html": "/nbapages/index.html",
-    "precache-manifest.f78030c740c9d5fe601b2e3aa31e5c75.js": "/nbapages/precache-manifest.f78030c740c9d5fe601b2e3aa31e5c75.js",
+    "precache-manifest.ba3844fde2714ace24de5d856bcc8040.js": "/nbapages/precache-manifest.ba3844fde2714ace24de5d856bcc8040.js",
     "service-worker.js": "/nbapages/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/nbapages/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.67228cbd.chunk.css.map": "/nbapages/static/css/main.67228cbd.chunk.css.map",
+    "static/css/main.4b1b2b48.chunk.css.map": "/nbapages/static/css/main.4b1b2b48.chunk.css.map",
     "static/js/2.0cdb549f.chunk.js.LICENSE": "/nbapages/static/js/2.0cdb549f.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.0dd42c49.js",
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.0cdb549f.chunk.js",
-    "static/css/main.67228cbd.chunk.css",
+    "static/css/main.4b1b2b48.chunk.css",
     "static/js/main.ee8efaa8.chunk.js"
   ]
 }
